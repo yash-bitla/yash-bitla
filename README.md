@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently interning at **Dragonfruit AI**
 
-- 👨‍💻 All of my projects are available at [yashbitla.com](yashbitla.com/)
+- 👨‍💻 All of my projects are available at [yashbitla.com](https://yashbitla.com/)
 
 - 📫 How to reach me **bitla@usc.edu**
 
