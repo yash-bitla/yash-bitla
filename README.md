@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Yash Bitla</h1>
 <h3 align="left">Developer & Researcher | Specializing in AI, ML, and Full-Stack Solutions</h3>
 
-- 🔭 I’m currently interning at **Dragonfruit AI**
+- 🔭 I’m currently working at **Age Bold**
 
 - 👨‍💻 All of my projects are available at [yashbitla.com](https://yashbitla.com/)
 
-- 📫 How to reach me **bitla@usc.edu**
+- 📫 How to reach me **yashbitla1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
