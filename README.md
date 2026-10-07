@@ -1,17 +1,15 @@
-# Yash Bitla
+# Hi, I'm Yash
 
-Software engineer at [Age Bold](https://agebold.com), working on ML systems and healthcare data platforms.
+I'm a software engineer at Age Bold, where I build healthcare systems that connect Medicare members to preventive care.
 
-- **Data platform.** Primary engineering owner of the platform that ingests health plan enrollment data for 11M+ Medicare members. Re-architected the pipeline from 90K to 2M records/hour.
-- **ML serving.** Built the real-time recommendation pipeline and its inference service: under 50 ms p99 latency for 177K active members.
-- **Product.** Built the personalized daily plan and the feedback loop that feeds member preferences back into the recommendation engine.
+## What I work on
 
-## Selected work
+Most of my work is on large-scale data and ML systems. I build pipelines that ingest and reconcile health plan data at high volume, and the serving stack that turns that data into real-time, personalized recommendations. I care about the whole path: how data enters the system, how a model uses it under a tight latency budget, and how user feedback returns to make the next prediction better.
 
-**[Drone-Coverage-Planner](https://github.com/yash-bitla/Drone-Coverage-Planner)**: plans routes and charging schedules for a fleet of battery-limited drones that map an area around obstacles. A route-first, split-second pipeline with an optimal dynamic-programming split cuts makespan by about 41% against the original DARP + STC approach on 60 seeded instances, and an independent validator checks every plan. Python, Numba, FastAPI, React.
+## What I'm interested in
 
-## Areas
+I like the place where machine learning meets software engineering: the work it takes to turn a model into a system that people can depend on. That means serving under a latency budget, data pipelines that stay correct at scale, evaluation that matches what users experience, and feedback loops that make the model better over time.
 
-ML systems · Search and retrieval · Backend and data systems · Optimization
+## Find me
 
 [yashbitla.com](https://yashbitla.com) · [LinkedIn](https://linkedin.com/in/yash-bitla) · yashbitla1999@gmail.com
