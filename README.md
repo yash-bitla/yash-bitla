@@ -4,7 +4,7 @@ I'm a software engineer at Age Bold, where I build healthcare systems that conne
 
 ## What I work on
 
-Most of my work is on large-scale backend systems and the ML systems built on top of them. I own the core backend system that connects more than 11 million Medicare members to preventive care, and I scaled its throughput from 90K to 2M records an hour. I also built the company's first ML serving stack: a real-time inference service that returns personalized recommendations to 177K active members in under 50 ms at p99. Most recently I have been working on a GPT-based recommendation model that predicts a member's next class from their activity history.
+Most of my work is on large-scale backend systems that millions of people use, and on the ML systems built on top of them. On the backend side, I build services that stay fast and correct as the load grows. On the ML side, I build the serving stack that turns a model into real-time, personalized recommendations under a tight latency budget. Most recently I have been building GPT-based recommendation models.
 
 ## What I'm interested in
 
