@@ -4,7 +4,7 @@ I'm a software engineer at Age Bold, where I build healthcare systems that conne
 
 ## What I work on
 
-Most of my work is on large-scale data and ML systems. I build pipelines that ingest and reconcile health plan data at high volume, and the serving stack that turns that data into real-time, personalized recommendations. I care about the whole path: how data enters the system, how a model uses it under a tight latency budget, and how user feedback returns to make the next prediction better.
+Most of my work is on large-scale backend system and real-time ML services. I build pipelines that ingest and reconcile health plan data at high volume, and the serving stack that turns that data into real-time, personalized recommendations. I care about the whole path: how data enters the system, how a model uses it under a tight latency budget, and how user feedback returns to make the next prediction better.
 
 ## What I'm interested in
 
